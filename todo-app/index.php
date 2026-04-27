@@ -185,11 +185,7 @@ margin-right:10px;
 
 <div class="container">
 
-<<<<<<< HEAD
 <h2>Todo List AWS</h2>
-=======
-<h2>Todo List AWS and git setup</h2>
->>>>>>> a424f18d1725dac7ed0fc080e51f617a01dc89aa
 
 <form method="POST">
 
